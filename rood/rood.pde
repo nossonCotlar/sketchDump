@@ -53,7 +53,7 @@ void draw() {
   rect(0, 0, 100, 100);
   //fullQuad(0, 0, amount);
   
-  saveFrame();
+
   
   //noLoop();
   
